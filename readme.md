@@ -1,5 +1,6 @@
 # ~~FOSSboard~~ ~~QuadCore~~? Hover Cruiser!
 An open source off-road mountainboard with hoverboard motors for wheels and power.  
+Designed to be repairable, Open Source, easy to build and modifiable to your liking.  
 
 I've thought of ways on how to recycle old hoverboars and some kind of PEV came into my mind. And yeah a stable and powerfull one.  
 
@@ -29,27 +30,24 @@ https://www.youtube.com/watch?v=1y4zh5mAdzA
 https://www.wildcircuits.com/2016/10/electric-mountain-board.html  
 https://www.thingiverse.com/thing:4819536  
 
-
-## BOM - prelimary
-| Item                        | QTY | Price | Link |
-| --------------------------- | --- | ----- | ---- |
-| Plywood                     |
-| Griptape                    |
-| 8" Hoverboard motors        | 4   |
-| VESC motor controlelr       |
-| Controller                  |
-| XT90-S anti-spark connector |
-| Fuse?                       |
-| Custom Axle                 |
-| Heavy Gauge Silicone Wire   |
-| Smart BMS                   |
-| LiFePo4 Cells               |
-| Pure Nickel Strip           |
-
 ## BOM - shortened TODO
 | Item               | QTY | Price | Link |
 | ------------------ | --- | ----- | ---- |
 | Frame, Deck        | -   |
+| Aluminium extrusion|
+|CNCed parts|
+| HW & bits and bops |
 | Hoverboard wheels  | 4   |
 | DIY 2ch VESC       | 2   |
-| HW & bits and bops |
+| Cables, Connectors|
+|BMS, LiFePo4 Batteries| 
+
+## BOM - Thomas / HC funding
+https://www.mujboardshop.cz/Trampa-TRUCK-4X-PRUZINY-d120.htm
+
+## cloning the repo
+This repo contains submodules.  
+`git clone https://github.com/Tomas-Kuchta-FPV/FOSSwheel.git`  
+`git submodule init`  
+`git submodule update`  
+
