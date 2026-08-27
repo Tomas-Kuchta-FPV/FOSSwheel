@@ -21,6 +21,7 @@ I've thought of ways on how to recycle old hoverboars and some kind of PEV came 
 ## Mostivation
 I've been obsesed with electric vehycles for a long like. I've got an electric scooter like four years ago, but it died recently and I don't have a way to get around quickly. :(  
 So I've began making my own onewheel out off hoverboard motors (For this purpuse this repo was supposed to be) but after watching a few reviews of onewheels I've found out that there are so many flaws and that's why I have opted to making an electric skateboard!  
+Also this is my last hackclub program I can take part in, so I've opted for a super challanging and long term project to test my skils!  
 
 ## Inspiration
 FOSSwheell  
