@@ -1,10 +1,12 @@
 # ~~FOSSboard~~ ~~QuadCore~~? Hover Cruiser!
-An open source off-road mountainboard with hoverboard motors for wheels and power.  
+An open source off-road electric longboard/mountainboard/crosscountry made with upcycled parts from hoverboards!  
 Designed to be repairable, Open Source, easy to build and modifiable to your liking.  
+NGL I'm maybe overhyping it, feel free to make this project better by raising issues ans making PRs.  
 
-I've thought of ways on how to recycle old hoverboars and some kind of PEV came into my mind. And yeah a stable and powerfull one.  
+Whili dissasembling a few hoverboards and flashing them I've thought of ways on how to recycle old hoverboars and the thought oh making some kind of PEV came into my mind. And yeah a stable and powerfull one. Atleast after trying to make a OneWheel clone.  
 
-![](/images/Prototype.png)  
+![](/images/BoardIso.png)  
+![](/Electronics%20diagram.drawio.png)  
 
 ## Design consideration
 - Custom designed powerfull VESC
@@ -14,8 +16,9 @@ I've thought of ways on how to recycle old hoverboars and some kind of PEV came 
 ## Safety
 - the LiFePo4 battery is at low risk of battery explosions and fires
 - Off the shelf BMS as it's the only thing I don't want to mess with 🎇
-- DIY VESC is not proven and a bit dangerous lol.
-- Important values right on the controller so you can monitor while riding
+- ~~DIY VESC is not proven and a bit dangerous lol.~~
+- Upcycled ESC from old hoverboards.
+- ~~Important values right on the controller so you can monitor while riding~~
 - XT90 yaink out loop when shit goes bad - hopefully not 🤞
 
 ## Mostivation
@@ -31,20 +34,17 @@ https://www.youtube.com/watch?v=1y4zh5mAdzA
 https://www.wildcircuits.com/2016/10/electric-mountain-board.html  
 https://www.thingiverse.com/thing:4819536  
 
-## BOM - shortened TODO
-| Item               | QTY | Price | Link |
-| ------------------ | --- | ----- | ---- |
-| Frame, Deck        | -   |
-| Aluminium extrusion|
-|CNCed parts|
-| HW & bits and bops |
-| Hoverboard wheels  | 4   |
-| DIY 2ch VESC       | 2   |
-| Cables, Connectors|
-|BMS, LiFePo4 Batteries| 
-
-## BOM - Thomas / HC funding
-https://www.mujboardshop.cz/Trampa-TRUCK-4X-PRUZINY-d120.htm
+## BOM - overview
+| Item                     | QTY | Price | Link |
+| ------------------------ | --- | ----- | ---- |
+| Frame, Deck              | -   |
+| Aluminium extrusion      |
+| CNCed / 3D printed parts |
+| HW & bits and bops       |
+| Hoverboard wheels        | 4   |
+| ESC from hoverboards     | 2   |
+| Cables, Connectors       |
+| BMS, LiFePo4 Batteries   |
 
 ## cloning the repo
 This repo contains submodules.  
