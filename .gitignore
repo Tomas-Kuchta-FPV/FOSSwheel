@@ -37,3 +37,6 @@ fp-info-cache
 
 # Freecad
 *.FCBak
+
+# Drawio
+*.bkp
