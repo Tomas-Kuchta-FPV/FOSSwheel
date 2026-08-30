@@ -5,7 +5,7 @@ NGL I'm maybe overhyping it, feel free to make this project better by raising is
 
 While dissasembling a few hoverboards and flashing them I've thought of ways on how to recycle old hoverboars and the thought oh making some kind of PEV came into my mind. And yeah a stable and powerfull one. Atleast after trying to make a OneWheel clone.  
 
-![](/images/BoardIso.png)  
+![](/Images/BoardIso.png)  
 ![](/Electronics%20diagram.drawio.png)  
 ![](/battery.png)  
 ![](/Bad%20sketch.png)  
