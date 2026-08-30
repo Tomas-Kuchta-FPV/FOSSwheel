@@ -1,17 +1,22 @@
 # ~~FOSSboard~~ ~~QuadCore~~? Hover Cruiser!
-An open source off-road electric longboard/mountainboard/crosscountry made with upcycled parts from hoverboards!  
+An open source off-road electric longboard/mountainboard/crosscountry hybrid thingimabop made out of upcycled parts from old unused hoverboards!  
 Designed to be repairable, Open Source, easy to build and modifiable to your liking.  
 NGL I'm maybe overhyping it, feel free to make this project better by raising issues ans making PRs.  
 
-Whili dissasembling a few hoverboards and flashing them I've thought of ways on how to recycle old hoverboars and the thought oh making some kind of PEV came into my mind. And yeah a stable and powerfull one. Atleast after trying to make a OneWheel clone.  
+While dissasembling a few hoverboards and flashing them I've thought of ways on how to recycle old hoverboars and the thought oh making some kind of PEV came into my mind. And yeah a stable and powerfull one. Atleast after trying to make a OneWheel clone.  
 
 ![](/images/BoardIso.png)  
 ![](/Electronics%20diagram.drawio.png)  
+![](/battery.png)  
+![](/Bad%20sketch.png)  
 
 ## Design consideration
-- Custom designed powerfull VESC
-- intuitive controller with readout of all of the important values
+- ~~Custom designed powerfull VESC~~
+- ~~intuitive controller with readout of all of the important values~~
+  - These went right out of the window because of price
 - High power custom designed LiFePo4 battery pack with powerfull BMS.
+  - Prismatic cels fall into this category as they have smaller internal rezistance and have better current carying capacity.
+  - I need atleast 15A from my testing with vehykl.
 
 ## Safety
 - the LiFePo4 battery is at low risk of battery explosions and fires
@@ -42,7 +47,7 @@ https://www.thingiverse.com/thing:4819536
 | CNCed / 3D printed parts |
 | HW & bits and bops       |
 | Hoverboard wheels        | 4   |
-| ESC from hoverboards     | 2   |
+| ESC      | 2   |
 | Cables, Connectors       |
 | BMS, LiFePo4 Batteries   |
 

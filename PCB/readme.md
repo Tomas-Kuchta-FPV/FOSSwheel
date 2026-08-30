@@ -9,4 +9,4 @@
 - IMU
 - Current measurement
 
-I have ran out of time so I'm switching to DIY cheap FOCer, as a middle ground of bought and maker style.  
+I have ran out of time so I'm switching to hoverboard ESCs with a custom FW or you can still use DIY cheap FOCer, as a middle ground of bought and maker style.  
