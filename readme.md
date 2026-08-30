@@ -10,6 +10,9 @@ While dissasembling a few hoverboards and flashing them I've thought of ways on 
 ![](/battery.png)  
 ![](/Bad%20sketch.png)  
 
+## Building
+Technical plans are here! [Production/Drawings.pdf](/Production/Drawings.pdf)  
+
 ## Design consideration
 - ~~Custom designed powerfull VESC~~
 - ~~intuitive controller with readout of all of the important values~~
